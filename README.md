@@ -1,1 +1,3 @@
 # Spline-Research
+
+Data approximation and constructing efficient methods of representing data possesses numerous applications into industries of all backgrounds. With this in mind, the purpose of this study is to compare the performances of leveraging multiple interpolation techniques -- namely cubic splines, Chebyshev interpolation, and Lagrange interpolation -- to approximate functions based on a group of discrete data points. The performances of the aforementioned processes will be examined through multiple error analyses, including the maximum norm of the error and root mean squared error (RMSE), which serve to quantify precision and accuracy.
